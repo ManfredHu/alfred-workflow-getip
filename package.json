@@ -1,0 +1,17 @@
+{
+  "name": "alfred-workflow-getip",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^1.0.0",
+    "ip": "^1.1.8"
+  }
+}
